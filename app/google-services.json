@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "649630814565",
+    "firebase_url": "https://plasma-bank-f96c9.firebaseio.com",
+    "project_id": "plasma-bank-f96c9",
+    "storage_bucket": "plasma-bank-f96c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649630814565:android:96bee7ab00015eb228918c",
+        "android_client_info": {
+          "package_name": "com.fariha.plasmabank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649630814565-jhhc2q70tooi08r20kj4crq9d0d3hhsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fariha.plasmabank",
+            "certificate_hash": "546d5199d2840a2b2de8841acc4ee0c4069cb8ae"
+          }
+        },
+        {
+          "client_id": "649630814565-1tohrbdtitiu0qp1oleg6ol0qtgr9hd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLwdxIXklrgoKwWauTQYafu2r7OXyz7GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649630814565-1tohrbdtitiu0qp1oleg6ol0qtgr9hd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

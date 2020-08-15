@@ -1,1 +1,1 @@
-# CSE-299-Project
+# CSE 299 Project
